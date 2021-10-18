@@ -1,0 +1,62 @@
+<annotation>
+	<folder>data-company-clean</folder>
+	<filename>291.jpg</filename>
+	<path>/home/numen/Desktop/data-company-clean/291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>recharge seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>1204</ymin>
+			<xmax>873</xmax>
+			<ymax>1274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dust collecting barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>1056</ymin>
+			<xmax>814</xmax>
+			<ymax>1179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dust collecting barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>896</ymin>
+			<xmax>445</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dust collecting barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>918</ymin>
+			<xmax>382</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>

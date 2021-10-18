@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data-company-clean</folder>
+	<filename>477.jpg</filename>
+	<path>/home/numen/Desktop/data-company-clean/477.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>recharge seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>574</ymin>
+			<xmax>568</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>recharge seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>1024</ymin>
+			<xmax>623</xmax>
+			<ymax>1097</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>recharge seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>845</xmin>
+			<ymin>1061</ymin>
+			<xmax>1045</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+</annotation>

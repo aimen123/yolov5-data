@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data-company-clean</folder>
+	<filename>748.jpg</filename>
+	<path>/home/numen/Desktop/data-company-clean/748.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>recharge seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1535</xmin>
+			<ymin>500</ymin>
+			<xmax>1729</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

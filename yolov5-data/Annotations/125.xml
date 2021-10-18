@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data-company-clean</folder>
+	<filename>125.jpg</filename>
+	<path>/home/numen/Desktop/data-company-clean/125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dust collecting barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>370</ymin>
+			<xmax>976</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
